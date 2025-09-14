@@ -1,0 +1,9 @@
+img_paths.py
+OAS2_labels2_short.csv
+OAS2_labels.csv
+group_codes.py
+test_imgs.py
+models
+cleaning_csv.py
+OAS2_labels_test_dst.csv
+resid_net_model.py
